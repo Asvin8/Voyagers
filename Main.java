@@ -1,7 +1,7 @@
 /*
  * Names: Asvin and Alex
  * Date: Tuesday, January 24, 2023
- * This is our isu project called voyagers. 
+ * This game is called voyagers. 
  */
 
 import java.awt.Color;
